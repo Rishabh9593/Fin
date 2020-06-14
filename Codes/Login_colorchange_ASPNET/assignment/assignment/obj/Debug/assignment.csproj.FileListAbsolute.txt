@@ -1,0 +1,18 @@
+C:\Users\FinIQ\Documents\Visual Studio 2012\Projects\assignment\assignment\bin\assignment.dll
+C:\Users\FinIQ\Documents\Visual Studio 2012\Projects\assignment\assignment\bin\assignment.pdb
+C:\Users\FinIQ\Documents\Visual Studio 2012\Projects\assignment\assignment\bin\Microsoft.Web.XmlTransform.dll
+C:\Users\FinIQ\Documents\Visual Studio 2012\Projects\assignment\assignment\bin\Newtonsoft.Json.dll
+C:\Users\FinIQ\Documents\Visual Studio 2012\Projects\assignment\assignment\bin\NuGet.Core.dll
+C:\Users\FinIQ\Documents\Visual Studio 2012\Projects\assignment\assignment\bin\Newtonsoft.Json.xml
+C:\Users\FinIQ\Documents\Visual Studio 2012\Projects\assignment\assignment\obj\Debug\assignment.dll
+C:\Users\FinIQ\Documents\Visual Studio 2012\Projects\assignment\assignment\obj\Debug\assignment.pdb
+C:\Users\FinIQ\Documents\Visual Studio 2012\Projects\assignment\assignment\obj\Debug\assignment.csprojResolveAssemblyReference.cache
+C:\Users\FinIQ\Downloads\repos\assignment\assignment\obj\Debug\assignment.csprojResolveAssemblyReference.cache
+C:\Users\FinIQ\Downloads\repos\assignment\assignment\obj\Debug\assignment.dll
+C:\Users\FinIQ\Downloads\repos\assignment\assignment\bin\assignment.dll
+C:\Users\FinIQ\Downloads\repos\assignment\assignment\bin\assignment.pdb
+C:\Users\FinIQ\Downloads\repos\assignment\assignment\bin\Microsoft.Web.XmlTransform.dll
+C:\Users\FinIQ\Downloads\repos\assignment\assignment\bin\Newtonsoft.Json.dll
+C:\Users\FinIQ\Downloads\repos\assignment\assignment\bin\NuGet.Core.dll
+C:\Users\FinIQ\Downloads\repos\assignment\assignment\bin\Newtonsoft.Json.xml
+C:\Users\FinIQ\Downloads\repos\assignment\assignment\obj\Debug\assignment.pdb
