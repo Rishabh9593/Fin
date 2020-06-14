@@ -1,0 +1,69 @@
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\repos\fx_app\bin\Debug\fx_app.exe.config
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\repos\fx_app\bin\Debug\fx_app.exe
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\repos\fx_app\bin\Debug\fx_app.pdb
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\repos\fx_app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\repos\fx_app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\repos\fx_app\obj\Debug\fx_app.fx_app_form.resources
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\repos\fx_app\obj\Debug\fx_app.Properties.Resources.resources
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\repos\fx_app\obj\Debug\fx_app.csproj.GenerateResource.cache
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\repos\fx_app\obj\Debug\fx_app.csproj.CoreCompileInputs.cache
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\repos\fx_app\obj\Debug\fx_app.csproj.CopyComplete
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\repos\fx_app\obj\Debug\fx_app.exe
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\repos\fx_app\obj\Debug\fx_app.pdb
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\repos\fx_app\obj\Debug\fx_app.csprojAssemblyReference.cache
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\bin\Debug\fx_app.exe.config
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\bin\Debug\fx_app.exe
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\bin\Debug\fx_app.pdb
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\bin\Debug\mscorlib.dll
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\bin\Debug\System.Net.Http.dll
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\bin\Debug\System.Net.Http.xml
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\bin\Debug\normidna.nlp
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\bin\Debug\normnfc.nlp
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\bin\Debug\normnfd.nlp
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\bin\Debug\normnfkc.nlp
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\bin\Debug\normnfkd.nlp
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\obj\Debug\fx_app.fx_app_form.resources
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\obj\Debug\fx_app.Properties.Resources.resources
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\obj\Debug\fx_app.csproj.GenerateResource.Cache
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\obj\Debug\fx_app.exe
+C:\Users\FinIQ\Downloads\repos\repos\fx_app\obj\Debug\fx_app.pdb
+C:\Users\FinIQ\Downloads\repos\fx_app\bin\Debug\fx_app.exe.config
+C:\Users\FinIQ\Downloads\repos\fx_app\bin\Debug\fx_app.exe
+C:\Users\FinIQ\Downloads\repos\fx_app\bin\Debug\fx_app.pdb
+C:\Users\FinIQ\Downloads\repos\fx_app\bin\Debug\mscorlib.dll
+C:\Users\FinIQ\Downloads\repos\fx_app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FinIQ\Downloads\repos\fx_app\bin\Debug\System.Net.Http.dll
+C:\Users\FinIQ\Downloads\repos\fx_app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FinIQ\Downloads\repos\fx_app\bin\Debug\System.Net.Http.xml
+C:\Users\FinIQ\Downloads\repos\fx_app\bin\Debug\normidna.nlp
+C:\Users\FinIQ\Downloads\repos\fx_app\bin\Debug\normnfc.nlp
+C:\Users\FinIQ\Downloads\repos\fx_app\bin\Debug\normnfd.nlp
+C:\Users\FinIQ\Downloads\repos\fx_app\bin\Debug\normnfkc.nlp
+C:\Users\FinIQ\Downloads\repos\fx_app\bin\Debug\normnfkd.nlp
+C:\Users\FinIQ\Downloads\repos\fx_app\obj\Debug\fx_app.fx_app_form.resources
+C:\Users\FinIQ\Downloads\repos\fx_app\obj\Debug\fx_app.Properties.Resources.resources
+C:\Users\FinIQ\Downloads\repos\fx_app\obj\Debug\fx_app.csproj.GenerateResource.Cache
+C:\Users\FinIQ\Downloads\repos\fx_app\obj\Debug\fx_app.exe
+C:\Users\FinIQ\Downloads\repos\fx_app\obj\Debug\fx_app.pdb
+C:\Users\FinIQ\Downloads\repos\fx_app\obj\Debug\fx_app.csprojResolveAssemblyReference.cache
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\bin\Debug\fx_app.exe.config
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\bin\Debug\fx_app.exe
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\bin\Debug\fx_app.pdb
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\bin\Debug\mscorlib.dll
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\bin\Debug\Newtonsoft.Json.dll
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\bin\Debug\System.Net.Http.dll
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\bin\Debug\Newtonsoft.Json.xml
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\bin\Debug\System.Net.Http.xml
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\bin\Debug\normidna.nlp
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\bin\Debug\normnfc.nlp
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\bin\Debug\normnfd.nlp
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\bin\Debug\normnfkc.nlp
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\bin\Debug\normnfkd.nlp
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\obj\Debug\fx_app.csprojResolveAssemblyReference.cache
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\obj\Debug\fx_app.fx_app_form.resources
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\obj\Debug\fx_app.Properties.Resources.resources
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\obj\Debug\fx_app.csproj.GenerateResource.Cache
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\obj\Debug\fx_app.exe
+\\FINIQ-NSK38\Shared\Intern_2019_Data\50177_Durgesh_Pachghare\Assign_fx_app_forex_withAPI-cross-pair-calc-premium_blackscholes-implied_volatility\fx_app\obj\Debug\fx_app.pdb
