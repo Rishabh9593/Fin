@@ -1,0 +1,23 @@
+C:\Users\FinIQ\Documents\Visual Studio 2012\Projects\voting\voting\bin\voting.dll
+C:\Users\FinIQ\Documents\Visual Studio 2012\Projects\voting\voting\bin\voting.pdb
+C:\Users\FinIQ\Documents\Visual Studio 2012\Projects\voting\voting\obj\Debug\voting.dll
+C:\Users\FinIQ\Documents\Visual Studio 2012\Projects\voting\voting\obj\Debug\voting.pdb
+C:\Users\Inv3nt0r\Downloads\Projects\voting\voting\bin\voting.dll.config
+C:\Users\Inv3nt0r\Downloads\Projects\voting\voting\bin\voting.dll
+C:\Users\Inv3nt0r\Downloads\Projects\voting\voting\bin\voting.pdb
+C:\Users\Inv3nt0r\Downloads\Projects\voting\voting\obj\Debug\voting.csprojAssemblyReference.cache
+C:\Users\Inv3nt0r\Downloads\Projects\voting\voting\obj\Debug\voting.csproj.CoreCompileInputs.cache
+C:\Users\Inv3nt0r\Downloads\Projects\voting\voting\obj\Debug\voting.dll
+C:\Users\Inv3nt0r\Downloads\Projects\voting\voting\obj\Debug\voting.pdb
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\voting\voting\bin\voting.dll.config
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\voting\voting\bin\voting.dll
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\voting\voting\bin\voting.pdb
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\voting\voting\obj\Debug\voting.csprojAssemblyReference.cache
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\voting\voting\obj\Debug\voting.csproj.CoreCompileInputs.cache
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\voting\voting\obj\Debug\voting.dll
+C:\Users\Inv3nt0r\OneDrive\Documents\Visual Studio 2019\Projects\voting\voting\obj\Debug\voting.pdb
+C:\Users\FinIQ\Downloads\repos\voting\voting\bin\voting.dll
+C:\Users\FinIQ\Downloads\repos\voting\voting\bin\voting.pdb
+C:\Users\FinIQ\Downloads\repos\voting\voting\obj\Debug\voting.csprojResolveAssemblyReference.cache
+C:\Users\FinIQ\Downloads\repos\voting\voting\obj\Debug\voting.dll
+C:\Users\FinIQ\Downloads\repos\voting\voting\obj\Debug\voting.pdb
