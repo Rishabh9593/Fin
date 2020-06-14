@@ -1,0 +1,8 @@
+EUR
+GBP
+NZD
+USD
+CAD
+CHF
+JPY
+INR
